@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AgroMap</string>
+    <string name="run_button_title">Run</string>
 </resources>
