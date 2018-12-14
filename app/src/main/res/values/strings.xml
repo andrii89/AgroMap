@@ -1,5 +1,15 @@
 <resources>
     <string name="app_name">AgroMap</string>
+    <string name="maps_title">Map</string>
+    <string name="report_title">Report</string>
     <string name="run_button_title">Run</string>
     <string name="location_explanation_toast">Application needs to define your location for proper work</string>
+    <string name="polygon_draw_toast">To draw polygon tap on the map to define corner points\n
+                                        (at least 3 point are necessary)</string>
+    <string name="IOExcepcion_toast">Photo can not be taken</string>
+    <string name="polygon_report_toast">To create report you need to be within polygon area</string>
+    <string name="description_textview">Description:</string>
+    <string name="date_textview">Date:</string>
+    <string name="add_photo_button">Add photo</string>
+    <string name="save_button">Save</string>
 </resources>
